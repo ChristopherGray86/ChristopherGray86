@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Christopher!.
 - 👀 I’m interested in all things Healthcare, Information Technology, and CyberSecurity. 
-- 🧬 I have a Bachelor of Science in Healthcare Administration with a Concentration in Healthcare Management.
+- 🧬 I have a Bachelor of science in Healthcare Administration with a concentration in Healthcare Management.
 - 🖥 I’m pursuing a Master's in Information Technology with a concentration in Healthcare informatics.
-- 💞 I’m looking to obtain a job in the Information Technology Field.
-- 🏹 My Anticipated Graduation Date is July 2024.
+- 💞 I’m looking to obtain a job in the Information Technology field.
+- 🏹 My anticipated graduation Date is July 2024.
 - 📫 How to reach me: edmundg4099@gmail.com
 
 <!---
